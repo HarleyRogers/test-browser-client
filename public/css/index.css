@@ -261,3 +261,20 @@ html {
   align-items: stretch;
 }
 
+.gallery img {
+  display: inline-block;
+  max-height: 10%;
+  bottom: 0;
+  position: absolute;
+  opacity: 0.35;
+  left: 0;
+  width: 200px;
+
+}
+.gallery img:target {
+  position: relative;
+  top: 0;
+  max-height: 90%;
+
+}
+
