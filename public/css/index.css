@@ -264,10 +264,10 @@ html {
 .gallery img {
   display: inline-block;
   max-height: 10%;
-  bottom: 0;
+  bottom: 5px;
   position: absolute;
   opacity: 0.25;
-  left: 0;
+  left: 10px;
   width: 100px;
 
 }
@@ -275,6 +275,7 @@ html {
   position: relative;
   top: 0;
   max-height: 90%;
+
 
 }
 
