@@ -221,4 +221,4 @@ function makeid(length) {
     return result;
  }
 
-server.listen(port, () => console.log(`Free Radish is listening on port ${port}`));
+server.listen(port, () => console.log(`Byte is listening on port ${port}`));
